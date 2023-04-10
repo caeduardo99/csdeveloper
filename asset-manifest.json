@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/csdeveloper/static/css/main.f8cf75fb.css",
+    "main.js": "/csdeveloper/static/js/main.1e811b7f.js",
+    "static/media/profile.jpg": "/csdeveloper/static/media/profile.4d40676eef2d55fa0fbb.jpg",
+    "static/media/about.jpg": "/csdeveloper/static/media/about.334840c08b3e9848d272.jpg",
+    "index.html": "/csdeveloper/index.html",
+    "main.f8cf75fb.css.map": "/csdeveloper/static/css/main.f8cf75fb.css.map",
+    "main.1e811b7f.js.map": "/csdeveloper/static/js/main.1e811b7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8cf75fb.css",
+    "static/js/main.1e811b7f.js"
+  ]
+}
