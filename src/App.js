@@ -8,7 +8,7 @@ import Skills from "./components/skills/Skills";
 // import Work from "./components/work/Work";
 // import Testimonials from "./components/testimonials/Testimonials";
 // import Contact from "./components/contact/Contact";
-// import Footer from "./components/footer/Footer";
+import Footer from "./components/footer/Footer";
 // import ScrollUp from "./components/scrollup/ScrollUp";
 
 function App() {
@@ -26,7 +26,7 @@ function App() {
         {/* <Contact /> */}
       </main>
 
-      {/* <Footer /> */}
+      <Footer />
       {/* <ScrollUp /> */}
     </>
   );
