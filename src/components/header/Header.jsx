@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import "./header.css"
-export const Header = () => {
+const Header = () => {
     const [Toggle, showMenu] = useState(false);
   return (
     <header className='header'>
@@ -22,7 +22,7 @@ export const Header = () => {
                     </li>
                     
                     <li className='nav__item'>
-                        <a href="skills" className='nav__link'>
+                        <a href="#skills" className='nav__link'>
                             <i className='uil uil-file-alt nav__icon'></i> Skills
                         </a>
                     </li>
@@ -56,3 +56,5 @@ export const Header = () => {
     </header>
   )
 }
+
+export default Header
